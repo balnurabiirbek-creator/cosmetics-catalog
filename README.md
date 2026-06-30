@@ -18,4 +18,4 @@ Responsive cosmetics catalog section built with clean HTML and CSS.
 
 ## Live Demo
 
-https://balnurabiirbek-creator.github.io/cosmetics-catalog/
+http://127.0.0.1:3000/index.html?vscode-livepreview=true
